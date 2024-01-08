@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovitoriasilva.joaovitoriasilva&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovitoriasilva.joaovitoriasilva"  />
 </div>
 
 ###
