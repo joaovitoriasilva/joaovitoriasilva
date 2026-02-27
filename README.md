@@ -13,3 +13,6 @@ Endurain is a self-hosted fitness tracking service designed to give users full c
 
 <h4 align="left"><a href="https://github.com/endurain-project/safeuploads">safeuploads GitHub repo</a></h4>
 Secure file upload validation for Python 3.13+ applications. Catches dangerous filenames, malicious extensions, Windows reserved names, and compression-based attacks before you accept an upload. Support library for <a href="https://github.com/joaovitoriasilva/endurain">Endurain</a>
+
+<h4 align="left"><a href="https://github.com/joaovitoriasilva/toconline-mcp">toconline-mcp GitHub repo</a></h4>
+A MCP server for the TOC Online Portuguese accounting platform API.
